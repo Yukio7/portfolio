@@ -74,9 +74,7 @@ const Home = () => (
         <Heading as="h3" variant="section-title">
           Bio
         </Heading>
-        <BioSection>
-       
-        </BioSection>
+
         
       </Section>
 
