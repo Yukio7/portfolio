@@ -11,7 +11,6 @@ import { ChevronRightIcon } from '@chakra-ui/icons'
 import Paragraph from '../components/paragraph'
 import Layout from '../components/layouts/article'
 import Section from '../components/section'
-import { PinInputField } from '@chakra-ui/react'
 
 
 const Home = () => (
