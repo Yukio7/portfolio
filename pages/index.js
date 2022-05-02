@@ -81,7 +81,7 @@ const Home = () => (
       </Section>
 
         <Box align="center" my={4}>
-          <NextLink href="/posts">
+          <NextLink href="https://drive.google.com/file/d/109V4fM52CKVFB5lHbOwnBW5SEOogMdGv/view?usp=sharing">
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
               Popular posts
             </Button>
