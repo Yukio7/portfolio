@@ -5,7 +5,7 @@ import {
   Text,
   Container,
   Divider,
-  Button
+  Button,
 } from '@chakra-ui/react'
 
 const NotFound = () => {

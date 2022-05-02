@@ -10,7 +10,10 @@ const Works = () => (
       <Heading as="h3" fontSize={20} mb={4}>
         LE BTS SIO
       </Heading>
-      
+       <p>
+        Le BTS SIO est un bts de merde 
+       </p>
+
       </Section>
     </Container>
   </Layout>
