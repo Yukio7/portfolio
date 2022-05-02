@@ -83,9 +83,9 @@ const Home = () => (
       </Section>
 
         <Box align="center" my={4}>
-          <NextLink href="">
+          <NextLink href="https://drive.google.com/file/d/1p-Mq5S_BddCJ44271y71-v6FHl7IrPCm/view?usp=sharing">
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
-              
+              Autre lien
             </Button>
           </NextLink>
         </Box>
