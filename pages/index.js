@@ -11,6 +11,7 @@ import { ChevronRightIcon } from '@chakra-ui/icons'
 import Paragraph from '../components/paragraph'
 import Layout from '../components/layouts/article'
 import Section from '../components/section'
+import { PinInputField } from '@chakra-ui/react'
 
 
 const Home = () => (
@@ -58,7 +59,9 @@ const Home = () => (
         </Heading>
         <Paragraph>
         
-        <iframe src="C:/Users/Arthur/Desktop/Développement/portfolio/portfolio/public"></iframe>
+        <iframe src="https://drive.google.com/file/d/109V4fM52CKVFB5lHbOwnBW5SEOogMdGv/view?usp=sharing"
+          width="600" height="1000">
+        </iframe>
 
         </Paragraph>
         <Box align="center" my={4}>
