@@ -56,11 +56,15 @@ const Home = () => (
         <Heading as="h3" variant="section-title">
           CV
         </Heading>
+        
+          <Paragraph>
+          <center><embed class="pdfone" src="CV_Arthur.pdf" width="800" height="800" type='application/pdf'/></center>
+          </Paragraph>
 
         <Box align="center" my={4}>
           <NextLink href="https://drive.google.com/file/d/109V4fM52CKVFB5lHbOwnBW5SEOogMdGv/view?usp=sharing">
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
-              Cliquez ici !
+              Autre lien
             </Button>
           </NextLink>
         </Box>
@@ -68,16 +72,15 @@ const Home = () => (
 
       <Section delay={0.2}>
         <Heading as="h3" variant="section-title">
-          Bio
+          Tableau de synthèse
         </Heading>
-
         
       </Section>
 
         <Box align="center" my={4}>
           <NextLink href="">
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
-              Popular posts
+              
             </Button>
           </NextLink>
         </Box>
