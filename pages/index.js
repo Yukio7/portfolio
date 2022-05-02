@@ -58,7 +58,7 @@ const Home = () => (
         </Heading>
         
           <Paragraph>
-          <center><embed src="CV_Arthur.pdf" width="800" height="800" type='application/pdf'/></center>
+          <center><embed src="CV_Arthur.pdf" width="800" height="800" textAlign="center" type='application/pdf'/></center>
           </Paragraph>
 
         <Box align="center" my={4}>
@@ -74,6 +74,11 @@ const Home = () => (
         <Heading as="h3" variant="section-title">
           Tableau de synthèse
         </Heading>
+
+        <Paragraph> 
+        <center><embed src="e4-tab-synthese.pdf"
+        width="800" height="800" type='application/pdf'/></center>
+        </Paragraph>
         
       </Section>
 
