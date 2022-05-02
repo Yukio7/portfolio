@@ -56,17 +56,11 @@ const Home = () => (
         <Heading as="h3" variant="section-title">
           CV
         </Heading>
-        <Paragraph>
-        
-        <iframe src="https://drive.google.com/file/d/109V4fM52CKVFB5lHbOwnBW5SEOogMdGv/view?usp=sharing"
-          width="600" height="1000">
-        </iframe>
 
-        </Paragraph>
         <Box align="center" my={4}>
-          <NextLink href="/works">
+          <NextLink href="https://drive.google.com/file/d/109V4fM52CKVFB5lHbOwnBW5SEOogMdGv/view?usp=sharing">
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
-              My portfolio
+              Cliquez ici !
             </Button>
           </NextLink>
         </Box>
@@ -81,7 +75,7 @@ const Home = () => (
       </Section>
 
         <Box align="center" my={4}>
-          <NextLink href="https://drive.google.com/file/d/109V4fM52CKVFB5lHbOwnBW5SEOogMdGv/view?usp=sharing">
+          <NextLink href="">
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
               Popular posts
             </Button>
