@@ -58,7 +58,7 @@ const Home = () => (
         </Heading>
         
           <Paragraph>
-          <center><embed class="pdfone" src="CV_Arthur.pdf" width="800" height="800" type='application/pdf'/></center>
+          <center><embed src="CV_Arthur.pdf" width="800" height="800" type='application/pdf'/></center>
           </Paragraph>
 
         <Box align="center" my={4}>
