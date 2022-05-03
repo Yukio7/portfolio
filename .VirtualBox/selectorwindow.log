@@ -1,0 +1,18 @@
+00:00:00.658898 VirtualBox GUI VM Selector Window 6.1.6 r137129 win.amd64 (Apr  9 2020 19:01:29) release log
+00:00:00.658901 Log opened 2021-04-28T13:25:38.543812200Z
+00:00:00.658902 Build Type: release
+00:00:00.658906 OS Product: Windows 10
+00:00:00.658907 OS Release: 10.0.19042
+00:00:00.658908 OS Service Pack: 
+00:00:00.676400 DMI Product Name: 81YM
+00:00:00.684763 DMI Product Version: IdeaPad 5 14ARE05
+00:00:00.684783 Firmware type: UEFI
+00:00:00.685088 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.685105 Host RAM: 15741MB (15.3GB) total, 10481MB (10.2GB) available
+00:00:00.685110 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.685110 Process ID: 13980
+00:00:00.685111 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.685286 Qt version: 5.6.2
+00:00:00.729845 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.427169 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.471706 refreshCertificates/#3: Found 1/64 SSL certs we/you trust (previously 1/63).

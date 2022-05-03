@@ -1,0 +1,11 @@
+[user]
+	name = Yukio7
+	email = arthur.manhaudier@gmail.com
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[core]
+	editor = VisualStudioCode
+[merge]
+	tool = vimdiff

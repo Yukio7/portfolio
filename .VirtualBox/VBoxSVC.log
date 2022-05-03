@@ -1,0 +1,91 @@
+00:00:00.004655 main     VirtualBox COM Server 6.1.6 r137129 win.amd64 (Apr  9 2020 19:01:29) release log
+00:00:00.004657 main     Log opened 2021-04-28T13:25:38.110728600Z
+00:00:00.004658 main     Build Type: release
+00:00:00.004664 main     OS Product: Windows 10
+00:00:00.004665 main     OS Release: 10.0.19042
+00:00:00.004666 main     OS Service Pack: 
+00:00:00.033325 main     DMI Product Name: 81YM
+00:00:00.049226 main     DMI Product Version: IdeaPad 5 14ARE05
+00:00:00.049242 main     Firmware type: UEFI
+00:00:00.049544 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.049563 main     Host RAM: 15741MB (15.3GB) total, 10497MB (10.2GB) available
+00:00:00.049568 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.049569 main     Process ID: 9980
+00:00:00.049569 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.133014          VirtualBox: object creation starts
+00:00:00.134509          Home directory: 'C:\Users\Arthur\.VirtualBox'
+00:00:00.134915          Installed Drivers:
+00:00:00.138918            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.6.37129)
+00:00:00.140827            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.6.37129)
+00:00:00.142035            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.6.37129)
+00:00:00.143955            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.6.37129)
+00:00:00.167492          Loading settings file "C:\Users\Arthur\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:00.177163          usbLibGetDevices: Starting USB device enumeration
+00:00:00.177415          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&ee984f3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:00:00.178052          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&14181d6a&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:00.180363          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.182631          USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb6c2)
+00:00:00.183383          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xc123)
+00:00:00.309648          HostDnsMonitor: initializing
+00:00:00.318745          HostDnsMonitor: updating information
+00:00:00.319404          HostDnsMonitor: old information
+00:00:00.319405            no server entries
+00:00:00.319406            no domain set
+00:00:00.319407            no search string entries
+00:00:00.319408          HostDnsMonitor: new information
+00:00:00.319408            server 1: 1.1.1.1
+00:00:00.319409            server 2: 1.0.0.1
+00:00:00.319410            domain: home
+00:00:00.319410            no search string entries
+00:00:00.330823          VD: VDInit finished with VINF_SUCCESS
+00:00:00.349039          Loading settings file "C:\Users\Arthur\VirtualBox VMs\VM_Arthur_Ubuntu\VM_Arthur_Ubuntu.vbox" with version "1.16-windows"
+00:00:00.362655          Loading settings file "C:\Users\Arthur\VirtualBox VMs\ubuntu\ubuntu.vbox" with version "1.16-windows"
+00:00:00.372377          Loading settings file "C:\Users\Arthur\VirtualBox VMs\cyberobs\cyberobs.vbox" with version "1.16-windows"
+00:00:00.383072          Loading settings file "C:\Users\Arthur\VirtualBox VMs\Debian_10.7.0_VB_LinuxVMImages.COM\Debian_10.7.0_VB_LinuxVMImages.COM.vbox" with version "1.16-windows"
+00:00:00.385192          VirtualBox: object created
+00:00:09.342501          Saving settings file "C:\Users\Arthur\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:09.361117          Saving settings file "C:\Users\Arthur\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:33.695329 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:00:33.716360 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&14181d6a&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:33.716557 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:02:52.210004 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:02:52.210340 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&ee984f3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:02:52.210682 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&14181d6a&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:02:52.210869 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:02:52.210913 USBPROXY USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb6c2)
+17:22:07.583496 dns-monitor HostDnsMonitor: updating information
+17:22:07.583712 dns-monitor HostDnsMonitor: old information
+17:22:07.583719 dns-monitor   server 1: 1.1.1.1
+17:22:07.583725 dns-monitor   server 2: 1.0.0.1
+17:22:07.583730 dns-monitor   domain: home
+17:22:07.583734 dns-monitor   no search string entries
+17:22:07.583738 dns-monitor HostDnsMonitor: new information
+17:22:07.583742 dns-monitor   no server entries
+17:22:07.583746 dns-monitor   no domain set
+17:22:07.583750 dns-monitor   no search string entries
+21:36:01.369650 USBPROXY usbLibGetDevices: Starting USB device enumeration
+21:36:01.369898 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&ee984f3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+21:36:01.374288 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&14181d6a&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+21:36:01.380172 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+21:36:03.649296 dns-monitor HostDnsMonitor: updating information
+21:36:03.649371 dns-monitor HostDnsMonitor: old information
+21:36:03.649374 dns-monitor   no server entries
+21:36:03.649377 dns-monitor   no domain set
+21:36:03.649379 dns-monitor   no search string entries
+21:36:03.649382 dns-monitor HostDnsMonitor: new information
+21:36:03.649384 dns-monitor   server 1: 1.1.1.1
+21:36:03.649387 dns-monitor   server 2: 1.0.0.1
+21:36:03.649389 dns-monitor   domain: home
+21:36:03.649391 dns-monitor   no search string entries
+21:36:15.744564          Saving settings file "C:\Users\Arthur\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+21:36:15.750719          Saving settings file "C:\Users\Arthur\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+21:36:15.773952          Saving settings file "C:\Users\Arthur\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+21:36:15.792473          Saving settings file "C:\Users\Arthur\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+21:36:21.340433 main     VirtualBox: object deletion starts
+21:36:21.340552 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Arthur\VirtualBox VMs\VM_Arthur_Ubuntu\VM_Arthur_Ubuntu.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+21:36:21.343123 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Arthur\VirtualBox VMs\CyberOps Workstation\cyberops_workstation-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+21:36:21.343308 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Arthur\VirtualBox VMs\Debian_10.7.0_VB_LinuxVMImages.COM\Debian_10.7.0_VB_LinuxVMImages.COM-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+21:36:21.343891 main     HostDnsMonitor: shutting down ...
+21:36:21.343957 main     HostDnsMonitor: shut down
+21:36:21.346243 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+21:36:21.346688 main     VirtualBox: object deleted

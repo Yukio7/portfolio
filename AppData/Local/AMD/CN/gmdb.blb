@@ -1,0 +1,158 @@
+{
+    "engines": [
+        {
+            "engine_type": 0,
+            "games_repository": "C:\\Program Files (x86)\\Steam\\steamapps\\common",
+            "install_location": "C:\\Program Files (x86)\\Steam",
+            "uninstall_location": 1
+        }
+    ],
+    "games": [
+        {
+            "amdId": 2,
+            "appDisplayScalingSet": "FALSE",
+            "appHistogramCapture": "FALSE",
+            "arguments": "",
+            "athena_support": "FALSE",
+            "averageFPS": 81.07142857142857,
+            "color_enabled": "TRUE",
+            "colors": [
+                {
+                    "ID": "0,0",
+                    "ProductId": "",
+                    "settings": [
+                        {
+                            "featureId": 1,
+                            "featureValue": {
+                                "current": 175,
+                                "manual": "FALSE",
+                                "support": "TRUE"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "commandline": "",
+            "exe_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike Global Offensive\\csgo.exe",
+            "eyefinity_enabled": "FALSE",
+            "freeSyncForceSet": "FALSE",
+            "guid": "{bb24a34e-976d-4b7c-8675-ab134eb0d445}",
+            "hidden": "FALSE",
+            "image_info": "C:\\Program Files (x86)\\Steam\\steam\\games\\d1159d1a4d0e18da4d74f85dbb4934d7a92ace2b.ico",
+            "install_location": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike Global Offensive",
+            "installer_id": "Steam App 730",
+            "is_favourite": "FALSE",
+            "last_played_mins": 13,
+            "lastlaunchtime": "ven. mars 26 16:01:24 2021",
+            "lastperformancereporttime": "ven. mars 26 16:14:58 2021",
+            "lnk_path": "",
+            "manual": "FALSE",
+            "origin_id": -1,
+            "overdrive": [
+            ],
+            "overdrive_enabled": "FALSE",
+            "percentile95_msec": 13,
+            "profileCustomized": "TRUE",
+            "profileEnabled": "TRUE",
+            "rendering_process": "",
+            "steam_id": 730,
+            "title": "Counter-Strike: Global Offensive",
+            "total_played_mins": 235,
+            "uninstall_location": 0,
+            "uninstalled": "FALSE",
+            "uplay_id": -1,
+            "useEyefinity": "FALSE",
+            "userprofiletype": 3,
+            "week_played_mins": 0
+        },
+        {
+            "amdId": -1,
+            "appDisplayScalingSet": "FALSE",
+            "appHistogramCapture": "FALSE",
+            "arguments": "",
+            "athena_support": "FALSE",
+            "averageFPS": -1,
+            "color_enabled": "FALSE",
+            "colors": [
+            ],
+            "commandline": "",
+            "exe_path": "",
+            "eyefinity_enabled": "FALSE",
+            "freeSyncForceSet": "FALSE",
+            "guid": "{9266f5c1-c958-4b00-a81a-bd888501e73b}",
+            "hidden": "FALSE",
+            "image_info": "C:\\Program Files (x86)\\Steam\\steam\\games\\e63a5c06f103cef62c44a492c48af7d0118c9421.ico",
+            "install_location": "",
+            "installer_id": "Steam App 892970",
+            "is_favourite": "FALSE",
+            "last_played_mins": 0,
+            "lastlaunchtime": "",
+            "lastperformancereporttime": "",
+            "lnk_path": "",
+            "manual": "FALSE",
+            "origin_id": -1,
+            "overdrive": [
+            ],
+            "overdrive_enabled": "FALSE",
+            "percentile95_msec": -1,
+            "profileCustomized": "FALSE",
+            "profileEnabled": "TRUE",
+            "rendering_process": "",
+            "steam_id": 892970,
+            "title": "Valheim",
+            "total_played_mins": 0,
+            "uninstall_location": 0,
+            "uninstalled": "FALSE",
+            "uplay_id": -1,
+            "useEyefinity": "FALSE",
+            "userprofiletype": -1,
+            "week_played_mins": 0
+        },
+        {
+            "amdId": 1087,
+            "appDisplayScalingSet": "FALSE",
+            "appHistogramCapture": "FALSE",
+            "arguments": "",
+            "athena_support": "FALSE",
+            "averageFPS": 29.4390243902439,
+            "color_enabled": "FALSE",
+            "colors": [
+            ],
+            "commandline": "",
+            "exe_path": "C:\\Program Files (x86)\\Hearthstone\\Hearthstone.exe",
+            "eyefinity_enabled": "FALSE",
+            "freeSyncForceSet": "FALSE",
+            "guid": "{0cb2dfb6-c46f-43d8-91a9-ed5d283004f2}",
+            "hidden": "FALSE",
+            "image_info": "",
+            "install_location": "",
+            "installer_id": "",
+            "is_favourite": "FALSE",
+            "last_played_mins": 50,
+            "lastlaunchtime": "ven. mai 21 15:48:18 2021",
+            "lastperformancereporttime": "ven. mai 21 16:38:33 2021",
+            "lnk_path": "",
+            "manual": "FALSE",
+            "origin_id": -1,
+            "overdrive": [
+            ],
+            "overdrive_enabled": "FALSE",
+            "percentile95_msec": 35,
+            "profileCustomized": "TRUE",
+            "profileEnabled": "TRUE",
+            "rendering_process": "",
+            "steam_id": -1,
+            "title": "Hearthstone",
+            "total_played_mins": 329,
+            "uninstall_location": -1,
+            "uninstalled": "FALSE",
+            "uplay_id": -1,
+            "useEyefinity": "FALSE",
+            "userprofiletype": -1,
+            "week_played_mins": 0
+        }
+    ],
+    "lst_dtc_tsmp_high": 30909166,
+    "lst_dtc_tsmp_low": 836984864,
+    "lst_rsch_data_release": 2
+}

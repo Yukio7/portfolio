@@ -1,0 +1,100 @@
+00:00:00.002311 main     VirtualBox COM Server 6.1.6 r137129 win.amd64 (Apr  9 2020 19:01:29) release log
+00:00:00.002315 main     Log opened 2020-12-01T13:00:50.801883200Z
+00:00:00.002317 main     Build Type: release
+00:00:00.002326 main     OS Product: Windows 10
+00:00:00.002328 main     OS Release: 10.0.19041
+00:00:00.002329 main     OS Service Pack: 
+00:00:00.029481 main     DMI Product Name: 81YM
+00:00:00.039291 main     DMI Product Version: IdeaPad 5 14ARE05
+00:00:00.039305 main     Firmware type: UEFI
+00:00:00.039519 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.039533 main     Host RAM: 15741MB (15.3GB) total, 12211MB (11.9GB) available
+00:00:00.039536 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.039536 main     Process ID: 10648
+00:00:00.039537 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.093279          VirtualBox: object creation starts
+00:00:00.093440          Home directory: 'C:\Users\Arthur\.VirtualBox'
+00:00:00.093524          Installed Drivers:
+00:00:00.098458            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.6.37129)
+00:00:00.098919            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.6.37129)
+00:00:00.099237            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.6.37129)
+00:00:00.099678            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.6.37129)
+00:00:00.101579          Loading settings file "C:\Users\Arthur\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.102904          usbLibGetDevices: Starting USB device enumeration
+00:00:00.103034          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&ee984f3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:00:00.110987          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&14181d6a&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:00.112491          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.112534          USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb6c2)
+00:00:00.112564          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xc123)
+00:00:00.137889          HostDnsMonitor: initializing
+00:00:00.144078          HostDnsMonitor: updating information
+00:00:00.144082          HostDnsMonitor: unchanged
+00:00:00.175552          VD: VDInit finished with VINF_SUCCESS
+00:00:00.182650          Loading settings file "C:\Users\Arthur\VirtualBox VMs\VM_Arthur_Ubuntu\VM_Arthur_Ubuntu.vbox" with version "1.16-windows"
+00:00:00.189214          Loading settings file "C:\Users\Arthur\VirtualBox VMs\ubuntu\ubuntu.vbox" with version "1.16-windows"
+00:00:00.190442          Loading settings file "C:\Users\Arthur\VirtualBox VMs\cyberobs\cyberobs.vbox" with version "1.16-windows"
+00:00:00.191043          VirtualBox: object created
+00:00:11.283191 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:00:11.297881 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&14181d6a&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:11.298116 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:32.470535 dns-monitor HostDnsMonitor: updating information
+00:00:32.470573 dns-monitor HostDnsMonitor: old information
+00:00:32.470577 dns-monitor   no server entries
+00:00:32.470580 dns-monitor   no domain set
+00:00:32.470583 dns-monitor   no search string entries
+00:00:32.470586 dns-monitor HostDnsMonitor: new information
+00:00:32.470588 dns-monitor   server 1: 10.203.0.254
+00:00:32.470591 dns-monitor   domain: csnd.fr
+00:00:32.470594 dns-monitor   no search string entries
+00:00:50.574279 dns-monitor HostDnsMonitor: updating information
+00:00:50.574304 dns-monitor HostDnsMonitor: old information
+00:00:50.574308 dns-monitor   server 1: 10.203.0.254
+00:00:50.574311 dns-monitor   domain: csnd.fr
+00:00:50.574314 dns-monitor   no search string entries
+00:00:50.574317 dns-monitor HostDnsMonitor: new information
+00:00:50.574320 dns-monitor   server 1: 10.202.0.254
+00:00:50.574323 dns-monitor   domain: csnd.fr
+00:00:50.574383 dns-monitor   no search string entries
+00:01:00.428316 dns-monitor HostDnsMonitor: updating information
+00:01:00.428342 dns-monitor HostDnsMonitor: old information
+00:01:00.428346 dns-monitor   server 1: 10.202.0.254
+00:01:00.428350 dns-monitor   domain: csnd.fr
+00:01:00.428353 dns-monitor   no search string entries
+00:01:00.428356 dns-monitor HostDnsMonitor: new information
+00:01:00.428359 dns-monitor   no server entries
+00:01:00.428361 dns-monitor   no domain set
+00:01:00.428364 dns-monitor   no search string entries
+00:01:06.578381 dns-monitor HostDnsMonitor: updating information
+00:01:06.578417 dns-monitor HostDnsMonitor: old information
+00:01:06.578420 dns-monitor   no server entries
+00:01:06.578423 dns-monitor   no domain set
+00:01:06.578426 dns-monitor   no search string entries
+00:01:06.578429 dns-monitor HostDnsMonitor: new information
+00:01:06.578432 dns-monitor   server 1: 10.203.0.254
+00:01:06.578435 dns-monitor   domain: csnd.fr
+00:01:06.578438 dns-monitor   no search string entries
+00:01:16.699810 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:01:16.700278 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&ee984f3&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:01:16.708261 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&14181d6a&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:01:16.708571 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:01:16.708628 USBPROXY USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb6c2)
+00:01:25.028118          Launched VM: 65698320 pid: 6680 (0x1a18) frontend: GUI/Qt name: cyberobs
+00:01:27.688319          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:01:27.879140          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:04:53.369536          Saving settings file "C:\Users\Arthur\VirtualBox VMs\cyberobs\cyberobs.vbox" with version "1.16-windows"
+00:04:55.544909          Launched VM: 65990640 pid: 12580 (0x3124) frontend: GUI/Qt name: cyberobs
+00:04:57.957618          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:04:58.119407          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:13:22.085707          Saving settings file "C:\Users\Arthur\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:13:22.090727          Saving settings file "C:\Users\Arthur\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:31:06.929876 dns-monitor HostDnsMonitor: updating information
+00:31:06.929963 dns-monitor HostDnsMonitor: unchanged
+00:44:09.006362          Saving settings file "C:\Users\Arthur\VirtualBox VMs\cyberobs\cyberobs.vbox" with version "1.16-windows"
+00:44:09.593412          Saving settings file "C:\Users\Arthur\VirtualBox VMs\cyberobs\cyberobs.vbox" with version "1.16-windows"
+00:44:15.161168 main     VirtualBox: object deletion starts
+00:44:15.161271 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Arthur\VirtualBox VMs\VM_Arthur_Ubuntu\VM_Arthur_Ubuntu.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:44:15.161928 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Arthur\VirtualBox VMs\CyberOps Workstation\cyberops_workstation-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:44:15.162491 main     HostDnsMonitor: shutting down ...
+00:44:15.162545 main     HostDnsMonitor: shut down
+00:44:15.163943 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:44:15.164230 main     VirtualBox: object deleted

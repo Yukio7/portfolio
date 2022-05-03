@@ -1,0 +1,40 @@
+{
+    "games": [
+        {
+            "cpu_status": 0,
+            "gpu_status": 0,
+            "min_cpu": "",
+            "min_gpu": "",
+            "old_url": "",
+            "origin_id": -1,
+            "overall_status": 0,
+            "rec_checked": "TRUE",
+            "rec_cpu": "",
+            "rec_gpu": "",
+            "steam_id": 730,
+            "sys_checked": "FALSE",
+            "sys_cpu": "",
+            "sys_gpu": "",
+            "title": "Counter-Strike: Global Offensive",
+            "uplay_id": -1
+        },
+        {
+            "cpu_status": 0,
+            "gpu_status": 0,
+            "min_cpu": "",
+            "min_gpu": "",
+            "old_url": "",
+            "origin_id": -1,
+            "overall_status": 0,
+            "rec_checked": "TRUE",
+            "rec_cpu": "",
+            "rec_gpu": "",
+            "steam_id": 892970,
+            "sys_checked": "FALSE",
+            "sys_cpu": "",
+            "sys_gpu": "",
+            "title": "Valheim",
+            "uplay_id": -1
+        }
+    ]
+}
