@@ -1,11 +1,10 @@
 import { Box } from '@chakra-ui/react'
 import { Container, Heading} from '@chakra-ui/react'
-import Layout from '../components/layouts/article'
 import Paragraph from '../components/paragraph'
-import Section from '../components/section'
-import { Stack, HStack, VStack,Flex, Spacer } from '@chakra-ui/react'
+
+import {HStack} from '@chakra-ui/react'
 import { useState } from "react";
-import Head from "next/head";
+
 import {
   SlideFade,
   Divider,
