@@ -15,8 +15,6 @@ import {
   Tag,
 } from "@chakra-ui/react";
 
-
-
 const About = () => {
   const [show, setShow] = useState(false);
 
