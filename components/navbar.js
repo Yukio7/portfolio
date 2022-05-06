@@ -80,6 +80,9 @@ const Navbar = props => {
           <LinkItem href="/veille" path={path}>
             Veille Technologique
           </LinkItem>
+          <LinkItem href="/contact" path={path}>
+            Contact
+          </LinkItem>
           <LinkItem
             _target="_blank"
             href="https://github.com/Yukio7/portfolio"

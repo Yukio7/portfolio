@@ -76,8 +76,8 @@ const Home = () => (
         </Heading>
 
         <Paragraph> 
-        <center><embed src="e4-tab-synthese.pdf"
-        width="800" height="800" type='application/pdf'/></center>
+        <embed src="e4-tab-synthese.pdf"
+        width="800" height="800" type='application/pdf'/>
         </Paragraph>
         
       </Section>
