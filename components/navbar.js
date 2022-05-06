@@ -74,8 +74,8 @@ const Navbar = props => {
           <LinkItem href="/bts_sio" path={path}>
            BTS SIO
           </LinkItem>
-          <LinkItem href="/posts" path={path}>
-            Posts
+          <LinkItem href="/projets" path={path}>
+            Projets
           </LinkItem>
           <LinkItem href="/veille" path={path}>
             Veille Technologique
