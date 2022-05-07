@@ -4,7 +4,7 @@ import {
   SlideFade,
 } from "@chakra-ui/react";
 
-import Paragraph from "./Paragraph";
+import { Paragraph } from 'react-native-paper';
 
 const Profile = () => {
   return (
