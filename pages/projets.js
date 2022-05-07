@@ -1,23 +1,21 @@
-import { Box, Container, Heading, Divider, SlideFade } from "@chakra-ui/react";
-import Layout from '../components/layouts/article'
-import Section from '../components/section'
-import Paragraph from "../components/Paragraph";
-import Head from "next/head";
+import { Container, Divider } from "@chakra-ui/react";
 
-const Projets = () => (
-  <Layout title="Le BTS SIO">
-    <Container>
-      <Section delay={0.1} >
+import Stack from "../components/pages/index/Stack";
+import Timeline from "../components//pages/index/Timeline";
+import Profile from "../components/pages/index/Profile";
 
-      <Heading as="h3" fontSize={20} mb={4}>
-        LE BTS SIO
-      </Heading>
-       <p> 
-        Le bts sio est 
-       </p>
-      </Section>
-      
-    </Container>
-  </Layout>
-)
-export default Projets;
+export default function Home() {
+  return (
+    <div>
+      <main>
+        <Container maxW="container.lg" mt={["5", "10"]}>
+          <Profile />
+          <Divider my={10} />
+          <Stack />
+          <Divider my={10} />
+          <Timeline />
+        </Container>
+      </main>
+    </div>
+  );
+}

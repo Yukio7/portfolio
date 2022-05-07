@@ -26,6 +26,7 @@ const About = () => {
     "Développement",
     "Ateliers Professionels",
     "TC7 Commun",
+    "CyberSécurité"
   ]);
 
   const [options1, setOptions1] = useState([
