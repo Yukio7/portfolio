@@ -8,19 +8,13 @@
     },
     "extends": [
       "plugin:vue/essential",
-      "eslint:recommended",
-      "react-app", "shared-config"
+      "eslint:recommended"
     ],
-    "rules": {
-      "additional-rule": "warn"
+    "parserOptions": {
+      "parser": "babel-eslint"
     },
-    "overrides": [
-      {
-        "files": ["**/*.ts?(x)"],
-        "rules": {
-          "additional-typescript-only-rule": "warn"
-        }
-      }
-    ]
+    "rules": {
+      "no-unused-vars": "off"
+    }
   }
 }
