@@ -4,7 +4,7 @@ import {
   SlideFade,
 } from "@chakra-ui/react";
 
-import { Paragraph } from "@emotion/styled";
+import { Paragraph } from "./Paragraph";
 
 const Profile = () => {
   return (

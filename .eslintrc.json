@@ -11,11 +11,16 @@
       "eslint:recommended",
       "react-app", "shared-config"
     ],
-    "parserOptions": {
-      "parser": "babel-eslint"
-    },
     "rules": {
       "additional-rule": "warn"
-    }
+    },
+    "overrides": [
+      {
+        "files": ["**/*.ts?(x)"],
+        "rules": {
+          "additional-typescript-only-rule": "warn"
+        }
+      }
+    ]
   }
 }
