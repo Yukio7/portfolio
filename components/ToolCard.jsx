@@ -7,7 +7,7 @@ import {
   useColorModeValue,
 } from "@chakra-ui/react";
 
-import Paragraph from "./Paragraph";
+import Paragraph from "./paragraph";
 
 const ToolCard = ({ tool }) => {
   return (

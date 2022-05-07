@@ -8,7 +8,7 @@ import {
   FaFigma,
 } from "react-icons/fa";
 
-import Paragraph from "../../Paragraph";
+import Paragraph from "../../paragraph";
 
 const tools = [
   {
