@@ -1,5 +1,5 @@
 import { Container, Divider } from "@chakra-ui/react";
-
+import Paragraph from "../components/Paragraph";
 import Stack from "../components/pages/index/Stack";
 import Timeline from "../components//pages/index/Timeline";
 import Profile from "../components/pages/index/Profile";
