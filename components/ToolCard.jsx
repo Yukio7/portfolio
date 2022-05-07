@@ -6,7 +6,7 @@ import {
   LinkBox,
   useColorModeValue,
 } from "@chakra-ui/react";
-import { Paragraph } from "./Paragraph";
+import Paragraph from "./Paragraph";
 
 const ToolCard = ({ tool }) => {
   return (
