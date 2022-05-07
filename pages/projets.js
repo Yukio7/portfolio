@@ -1,7 +1,7 @@
 import { Container, Divider } from "@chakra-ui/react";
-import Stack from "../components/pages/index/Stack";
-import Timeline from "../components//pages/index/Timeline";
-import Profile from "../components/pages/index/Profile";
+import Stack from "components/pages/index/Stack";
+import Timeline from "components/pages/index/Timeline";
+import Profile from "components/pages/index/Profile";
 
 export default function Home() {
   return (
