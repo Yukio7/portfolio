@@ -8,7 +8,7 @@ import {
   FaFigma,
 } from "react-icons/fa";
 
-import { Paragraph } from 'react-native-paper';
+import { Paragraph } from "@emotion/styled";
 
 const tools = [
   {

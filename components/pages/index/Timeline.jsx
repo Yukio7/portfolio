@@ -1,6 +1,6 @@
 import { Heading, SlideFade, List, ListItem, ListIcon, Link, Box } from "@chakra-ui/react";
 import { MdCheckCircle } from "react-icons/md";
-import Paragraph from "./paragraph.js";
+import { Paragraph } from "@emotion/styled";
 import { FaRegFilePdf } from "react-icons/fa";
 import {LightMode,Button,ButtonGroup} from "@chakra-ui/react";
 
