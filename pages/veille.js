@@ -1,15 +1,19 @@
-import { Container, Heading} from '@chakra-ui/react'
-import Layout from '../components/layouts/article'
+import { Container, Divider } from "@chakra-ui/react";
 
+import Head from "../components/Navigation/Head";
+import Body from "../components/Navigation/Body";
 
-const Veille  = () => (
-  <Layout title="Veille Technologique">
-    <Container>
-      <Heading as="h3" fontSize={20} mb={4}>
-        Veille Technologique
-      </Heading>
-    </Container>
-  </Layout>
-)
-
-export default Veille
+export default function Veille() {
+  return (
+    <div>
+      <main>
+        <Container maxW="container.lg" mt={["5", "10"]}>
+          <Head />
+          <Divider my={10} />
+          <Body />
+          <Divider my={10} />
+        </Container>
+      </main>
+    </div>
+  );
+}

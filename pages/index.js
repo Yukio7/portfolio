@@ -60,7 +60,7 @@ const Home = () => (
           <Paragraph>
           <center><embed src="CV_Arthur.pdf" width="800" height="800" textAlign="center" type='application/pdf'/></center>
           </Paragraph>
-
+     
         <Box align="center" my={4}>
           <NextLink href="https://drive.google.com/file/d/109V4fM52CKVFB5lHbOwnBW5SEOogMdGv/view?usp=sharing">
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">

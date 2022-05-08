@@ -86,7 +86,7 @@ const About = () => {
                   </Paragraph>
                 </HStack>
 
-                <Box> SISR 
+                <Box>  
                 Option SISR : Administration des systèmes et des réseaux : 
                 le titulaire participera à l'administration des systèmes et du réseau,
                 il sera capable de modifier ou d'adapter les solutions d'infrastructure ainsi que la qualité de service des équipements
@@ -109,7 +109,7 @@ const About = () => {
                     ))}
                   </Paragraph>
 
-                <Box> SLAM 
+                <Box>  
                 L’option Solutions logicielles et applications métiers forme des spécialistes des
                 logiciels (rédaction d’un cahier des charges, formulation des besoins et spécifications,
                  développement, intégration au sein de la société).
