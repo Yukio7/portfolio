@@ -12,16 +12,16 @@ import Paragraph from "../../paragraph";
 
 const tools = [
   {
-    name: "TP Jeu de Dé",
-    description: "Ce TP nous a permis de créer fonction pour générer des nombres aléatoirement et l'utilisation de liste afin de stocker plusieurs données dans un programme. ",
+    name: "TP Jeu JV Combat",
+    description: "Ce TP nous a permis de mieux comprendre le fonctionnement de la programmation orientée objet, j'ai du créer un jeux vidéo permettant de créer différents personnages qui pouvait se battre entre eux. ",
     icon: <FaJava fontSize="20px" />,
-    url: "https://docs.google.com/document/d/1J4s85pv4eC_-u0vIyjmhfL1LUtD0EY6ofg3cD77gjx0/edit?usp=sharing",
+    url: "https://drive.google.com/file/d/1KS39ZF1zkcoiZ-31ZWxn6WTaEwST18gf/view?usp=sharing",
   },
   {
     name: "TP ColorManager",
     description: "Ce TP consistait à créer la classe ColorManager en Java en y ajoutant les méthodes nécessaires. Les méthodes étaient ensuite testées à l'aide de tests unitaires",
     icon: <FaJava fontSize="20px" />,
-    url: "https://docs.google.com/document/d/1RSQHKT6SQ4MSC68vfYpTlF8EddZQ_eD-1AkDCPFyR5E/edit?usp=sharing",
+    url: "https://drive.google.com/file/d/1TCpM-APXW2HDahVsQoIbBFqWppy94ztu/view?usp=sharing",
   },
   {
     name: "Mon Portfolio",
