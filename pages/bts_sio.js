@@ -126,7 +126,7 @@ const About = () => {
                   colorScheme="green"
                   bg="green.500"
                 >
-                  Show {show ? "Less" : "More"}
+                  Voir {show ? "Moins" : "Plus"}
                 </Button>
               </LightMode>
             </Box>

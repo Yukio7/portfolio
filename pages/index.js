@@ -31,7 +31,10 @@ const Home = () => (
           <Heading as="h2" variant="page-title">
             Arthur Manhaudier 
           </Heading>
-          <p>Etudiant en développement ( React Enjoyer )</p>
+          <p>Etudiant en développement</p>
+          <p>ㅤ </p>
+          <p>Je souhaite continuer mes études en bac+5 si possible dans le développement après mon BTS.</p>
+          <p>ㅤ </p>
         </Box>
         <Box
           flexShrink={0}
