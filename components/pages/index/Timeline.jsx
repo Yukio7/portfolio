@@ -32,10 +32,8 @@ const Timeline = () => {
           Stage de 6 semaines au <Link href="http://www.ch-le-vinatier.fr/">Vinatier</Link>
           <p>ㅤ </p>
           <Paragraph>
-          Mon projet consistait à étudier et analyser le développement logiciel, de l'
-            ’application de Visio/télémédecine au
-            Centre Hospitalier Le 
-            Vinatier
+               Mon projet consistait à étudier et concevoir une base de données pour 
+le logiciel de blanchisserie
           </Paragraph>
 
           <Box mt={10}>
@@ -78,8 +76,10 @@ const Timeline = () => {
           Stage de 5 semaines au <Link href="http://www.ch-le-vinatier.fr/">Vinatier</Link>
           <p>ㅤ </p>
           <Paragraph>
-          Mon projet consistait à étudier et concevoir une base de données pour 
-le logiciel de blanchisserie
+               Mon projet consistait à étudier et analyser le développement logiciel, de l'
+            ’application de Visio/télémédecine au
+            Centre Hospitalier Le 
+            Vinatier
 
           </Paragraph>
           <Box mt={10}>
